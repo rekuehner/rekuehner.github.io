@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to Natasha!"
+date:   2015-11-13 18:29:34
+categories: jekyll update
+---
+My first post presents wonderful Natasha. Isn't she nice?
+
+![Natasha](/assets/images/corolles/SL371923.JPG)
